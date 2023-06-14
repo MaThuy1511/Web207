@@ -1,0 +1,62 @@
+.logo {
+    background-image: linear-gradient(0, rgba(247, 232, 239, 0.5), rgba(241, 107, 111, 0.5));
+}
+
+.btn_find {
+    color: #f58181;
+    border-color: #f58181;
+}
+
+.btn_find:hover {
+    background-color: #f58181;
+}
+
+.btn_cart,
+.btn_user,
+.dropdown-toggle,
+.dropdown-toggle:hover {
+    color: #e95e5e;
+}
+.dropdown-item:hover {
+    background-color: #ffeeee;
+    color: #e95e5e;
+}
+.footer_top {
+    background-image: linear-gradient(0, rgba(241, 107, 111, 0.5), rgba(249, 238, 243, 0.5));
+}
+
+.footer_bottom {
+    background-color: #f7b0b0;
+
+}
+
+.contact_icons {
+    width: 30px;
+}
+
+.contact_icons:hover,
+.nav_title:hover {
+    color: #e95e5e !important;
+}
+
+.card_accept {
+    margin-left: 5px;
+}
+
+.card_accept_1 {
+    height: 50px;
+}
+
+.ul_footer {
+    list-style: none;
+    line-height: 35px;
+}
+
+.about_us_link {
+    text-decoration: none;
+    color: black;
+}
+
+.about_us_link:hover {
+    color: #e95e5e;
+}

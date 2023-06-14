@@ -1,0 +1,288 @@
+{
+  "son": [
+    {
+      "id": 1,
+      "hinhAnh": "blackrouge2.webp",
+      "ten": "Son kem Black Rouge Leez Velvet Tint Season 2",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 30,
+      "gia": 254000,
+      "thongTin": "Son kem với gam màu hồng đào vô cùng trendy, sành điệu và thu hút. Chất son bóng, min bền chặt trên môi nhiều giờ liền cho nàng thỏa sức ăn uống mà không sợ phai màu",
+      "trangThai": 2
+    },
+    {
+      "id": 2,
+      "hinhAnh": "bbia3.jpg",
+      "ten": "Bbia Smudge Tint (Flower Market Collection)",
+      "thuongHieu": "Bbia",
+      "soLuong": 12,
+      "gia": 160000,
+      "thongTin": "Chất son hoàn toàn mới nhẹ như nước nhưng lại tựa như sáp màu. Son lên màu chuẩn và khô ngay sau khi thoa. Son lên môi mịn mướt, không hề gây vón cục",
+      "trangThai": 0
+    },
+    {
+      "id": 3,
+      "hinhAnh": "blackrouge1.webp",
+      "ten": "Son Kem Black Rouge Cream Matt Rouge 3",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 6,
+      "gia": 289000,
+      "thongTin": "Vỏ son bán trong suốt, nhám và chắc chắn, giữ nguyên cảm giác cổ điển, sang trọng, đầu thỏi son được thiết kế với độ nghiêng vừa phải, giúp bạn thoa son dễ dàng hơn",
+      "trangThai": 0
+    },
+    {
+      "id": 4,
+      "hinhAnh": "merzy6.webp",
+      "ten": "Son Thỏi Lì Merzy Academia Cotton Lipstick #AL2",
+      "thuongHieu": "Merzy",
+      "soLuong": 22,
+      "gia": 309000,
+      "thongTin": "Bề mặt vỏ son mờ lì và mịn như nhung. Thân son được in logo màu đen tạo nên sự sang trọng, quý phái khi cầm trên tay, vỏ son có tông màu nâu hồng",
+      "trangThai": 0
+    },
+    {
+      "id": 5,
+      "hinhAnh": "blackrouge4.webp",
+      "ten": "Son tint Black Rouge Drip Hot Water Tint",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 16,
+      "gia": 322000,
+      "thongTin": "Vẫn là packaging đặc trưng của Drip Hot Water Tint, thân son vuông, nhám lì chắc tay, bạn vẫn có thể thấy màu son bên trong.",
+      "trangThai": 0
+    },
+    {
+      "id": 6,
+      "hinhAnh": "merzy7.webp",
+      "ten": "Son Tint Bóng Merzy The Watery Dew Tint #WD08",
+      "thuongHieu": "Merzy",
+      "soLuong": 6,
+      "gia": 222000,
+      "thongTin": "Son Tint Bóng Merzy The Watery Dew Tint với kết cấu có độ ẩm cao như một lớp màng nước phủ trên bề mặt và độ bám màu tốt, không gây bết dính và nặng môi",
+      "trangThai": 2
+    },
+    {
+      "id": 7,
+      "hinhAnh": "blackrouge9.webp",
+      "ten": "Son bóng Black Rouge Half N Half Water Glow",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 45,
+      "gia": 400000,
+      "thongTin": "Son kem với gam màu hồng đào vô cùng trendy, sành điệu và thu hút. Chất son bóng, min bền chặt trên môi nhiều giờ liền cho nàng thỏa sức ăn uống mà không sợ phai màu",
+      "trangThai": 0
+    },
+    {
+      "id": 8,
+      "hinhAnh": "blackrouge5.webp",
+      "ten": "Son kem Black Rouge Airfit Velvet Tint Ver 5 BAM",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 22,
+      "gia": 309000,
+      "thongTin": "Bề mặt vỏ son mờ lì và mịn như nhung. Thân son được in logo màu đen tạo nên sự sang trọng, quý phái khi cầm trên tay. Vỏ son có tông màu nâu hồng tương tự như dòng Blackline",
+      "trangThai": 0
+    },
+    {
+      "id": 9,
+      "hinhAnh": "blackrouge7.webp",
+      "ten": "Son kem Black Rouge Leez Velvet Tint Season 2",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 6,
+      "gia": 254000,
+      "thongTin": "Vỏ son bán trong suốt, nhám và chắc chắn, giữ nguyên cảm giác cổ điển, sang trọng, đầu thỏi son được thiết kế với độ nghiêng vừa phải, giúp bạn thoa son dễ dàng hơn",
+      "trangThai": 0
+    },
+    {
+      "id": 10,
+      "hinhAnh": "blackrouge8.webp",
+      "ten": "Son tint Black Rouge Drip Hot Water Tint",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 3,
+      "gia": 322000,
+      "thongTin": "Vẫn là packaging đặc trưng của Drip Hot Water Tint, thân son vuông, nhám lì chắc tay, bạn vẫn có thể thấy màu son bên trong.",
+      "trangThai": 0
+    },
+    {
+      "id": 11,
+      "hinhAnh": "blackrouge6.webp",
+      "ten": "Son kem Black Rouge Airfit Velvet Tint THE CRYSTAL",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 5,
+      "gia": 189000,
+      "thongTin": "Son kem với gam màu hồng đào vô cùng trendy, sành điệu và thu hút. Chất son bóng, min bền chặt trên môi nhiều giờ liền cho nàng thỏa sức ăn uống mà không sợ phai màu",
+      "trangThai": 0
+    },
+    {
+      "id": 12,
+      "hinhAnh": "merzy2.webp",
+      "ten": "Son Kem Lì Merzy Academia Mellow Tint #AM1",
+      "thuongHieu": "Merzy",
+      "soLuong": 4,
+      "gia": 333000,
+      "thongTin": "Son Kem Lì Merzy Academia Mellow Tint với thiết kế nhẹ tênh, mềm mại, chất son nhẹ nhàng lướt trên môi mang lại bờ môi mịn màng, màu sắc tươi tắn cả ngày",
+      "trangThai": 0
+    },
+    {
+      "id": 13,
+      "hinhAnh": "merzy3.webp",
+      "ten": "Son Kem Lì Merzy Academia Mellow Tint #AM2",
+      "thuongHieu": "Merzy",
+      "soLuong": 6,
+      "gia": 154000,
+      "thongTin": "Độ bám màu nâng cao, khả năng giữ màu cao cả ngày giúp màu son luôn bền màu rạng rỡ, mang lại màu sắc tươi tắn cả ngày",
+      "trangThai": 0
+    },
+    {
+      "id": 14,
+      "hinhAnh": "merzy4.webp",
+      "ten": "Son Kem Lì Merzy Academia Mellow Tint #AM3",
+      "thuongHieu": "Merzy",
+      "soLuong": 16,
+      "gia": 322000,
+      "thongTin": "Thiết kế vỏ son có màu sắc đặc trưng được thể hiện giống với màu son bên trong, khả năng lên màu cực kỳ chuẩn, bền màu, không lem trôi",
+      "trangThai": 0
+    },
+    {
+      "id": 15,
+      "hinhAnh": "merzy5.webp",
+      "ten": "Son Thỏi Lì Merzy Academia Cotton Lipstick #AL1",
+      "thuongHieu": "Merzy",
+      "soLuong": 45,
+      "gia": 400000,
+      "thongTin": "Độ bám màu tương đối, giữ màu trong thời gian dài, màu sắc đầy cảm xúc lượn trên bản nhạc dịu nhẹ, rõ ràng từ lần thoa đầu tiền",
+      "trangThai": 0
+    },
+    {
+      "id": 16,
+      "hinhAnh": "merzy8.webp",
+      "ten": "Son Tint Bóng Merzy The Watery Dew Tint #WD09",
+      "thuongHieu": "Merzy",
+      "soLuong": 6,
+      "gia": 300000,
+      "thongTin": "Lớp màu lên chuẩn bám chặt từ lần quẹt cọ đầu tiên, khả năng giữ màu cao, lâu trôi cả ngày dài, để lại một lớp màng phủ sương ẩm nhẹ",
+      "trangThai": 0
+    },
+    {
+      "id": 17,
+      "hinhAnh": "blackrouge8.webp",
+      "ten": "Son tint Black Rouge Drip Hot Water Tint",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 3,
+      "gia": 322000,
+      "thongTin": "Vẫn là packaging đặc trưng của Drip Hot Water Tint, thân son vuông, nhám lì chắc tay, bạn vẫn có thể thấy màu son bên trong.",
+      "trangThai": 0
+    },
+    {
+      "id": 18,
+      "hinhAnh": "blackrouge6.webp",
+      "ten": "Son kem Black Rouge Airfit Velvet Tint THE CRYSTAL",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 5,
+      "gia": 189000,
+      "thongTin": "Son kem với gam màu hồng đào vô cùng trendy, sành điệu và thu hút. Chất son bóng, min bền chặt trên môi nhiều giờ liền cho nàng thỏa sức ăn uống mà không sợ phai màu",
+      "trangThai": 0
+    },
+    {
+      "id": 19,
+      "hinhAnh": "merzy2.webp",
+      "ten": "Son Kem Lì Merzy Academia Mellow Tint #AM1",
+      "thuongHieu": "Merzy",
+      "soLuong": 4,
+      "gia": 155000,
+      "thongTin": "Son Kem Lì Merzy Academia Mellow Tint với thiết kế nhẹ tênh, mềm mại, chất son nhẹ nhàng lướt trên môi mang lại bờ môi mịn màng, màu sắc tươi tắn cả ngày",
+      "trangThai": 0
+    },
+    {
+      "id": 20,
+      "hinhAnh": "blackrouge3.webp",
+      "ten": "Son bóng Black Rouge Half N Half Water Glow",
+      "thuongHieu": "Black Rouge",
+      "soLuong": 12,
+      "gia": 238000,
+      "thongTin": "Bề mặt vỏ son mờ lì và mịn như nhung. Thân son được in logo màu đen tạo nên sự sang trọng, quý phái khi cầm trên tay. Vỏ son có tông màu nâu hồng tương tự như dòng Blackline",
+      "trangThai": 0
+    },
+    {
+      "id": 21,
+      "hinhAnh": "3ce2.jpg",
+      "ten": "Son 10",
+      "thuongHieu": "Dior",
+      "soLuong": 55,
+      "gia": "20000",
+      "thongTin": "Không",
+      "trangThai": 0
+    }
+  ],
+  "thuongHieu": [
+    {
+      "id": 1,
+      "thuongHieu": "Black Rouge"
+    },
+    {
+      "id": 2,
+      "thuongHieu": "Merzy"
+    },
+    {
+      "id": 3,
+      "thuongHieu": "Bbia"
+    },
+    {
+      "id": 4,
+      "thuongHieu": "Mac"
+    },
+    {
+      "id": 5,
+      "thuongHieu": "3ce"
+    },
+    {
+      "id": 6,
+      "thuongHieu": "Dior"
+    },
+    {
+      "id": 7,
+      "thuongHieu": "danh mục 1"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "111",
+      "password": "111",
+      "phone": "0326505003",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "2222",
+      "password": "2222",
+      "phone": "0326505003",
+      "role": "users"
+    },
+    {
+      "id": 3,
+      "phone": "0326505003",
+      "username": "111a",
+      "role": "admin",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "phone": "0326505003",
+      "username": "1111",
+      "role": "admin",
+      "password": "11111"
+    },
+    {
+      "role": "users",
+      "username": "333",
+      "password": "333",
+      "phone": "0326505003",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "phone": "0326505003",
+      "username": "444",
+      "role": "admin",
+      "password": "4444"
+    }
+  ]
+}
